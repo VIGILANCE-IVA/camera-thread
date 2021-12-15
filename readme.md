@@ -1,6 +1,7 @@
 ### prerequisites
 
-> Install opencv
+> https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
+> Install opencv-python
 > Install pyee
 
 ### SAMPLE
