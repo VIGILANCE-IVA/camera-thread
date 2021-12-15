@@ -6,5 +6,6 @@ setup(
     version='0.1.0',
     description='Simply open camera as anew thread',
     author='Paul Jeremiah Mugaya',
+    install_requires=['pyee', 'opencv-python==4.1.1.26'],
     license='MIT',
 )
