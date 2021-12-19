@@ -2,3 +2,5 @@ venv
 dist
 build
 camera_threading.egg-info
+__pycache__/
+.idea
